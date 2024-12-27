@@ -1,0 +1,20 @@
+Weather prediction Reference
+
+---->datasets::
+
+https://www.kaggle.com/code/mikedelong/put-mean-data-on-maps?select=weather_data.csv
+
+---->Research Paper::
+
+https://ieeexplore.ieee.org/abstract/document/8938211
+
+---->Open Weather MAp API Key::
+
+https://openweathermap.org/api/weather-map-2
+
+---->and Research Paper:
+
+https://ejournal.uksw.edu/ijiteb/article/view/2302
+
+
+
